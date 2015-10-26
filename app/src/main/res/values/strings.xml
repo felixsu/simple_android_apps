@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="title">Did You Know?</string>
+    <string name="fact">Ants stretch when they wake up in the morning</string>
+    <string name="button">Show another fun facts</string>
+</resources>
